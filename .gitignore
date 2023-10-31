@@ -1,0 +1,6 @@
+__pycache__/
+eval/__pycache__/
+frame_interpolation_saved_model/
+frames/
+input.mp4
+output.mp4
